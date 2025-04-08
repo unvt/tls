@@ -1,4 +1,3 @@
-Workshop on Strategic Use of Geospatial Information in *
 
 # General Information
 To solve the challenges for achieving the SDGs, it is crucial to strategically use geospatial information, which is maintained and held by various organizations in diverse forms, in combination with reliable foundational map data, and apply it timely in operations, analysis, decision-making, etc. For that purpose, a prototype of institutional model in which the government publish foundational maps as highly accessible open information and encourage the strategic use of geospatial information, including other open and non-open information, by relevant organizations working on SDG challenges will be presented in this workshop.
